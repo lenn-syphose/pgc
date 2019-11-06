@@ -11,18 +11,22 @@ h1 {
 }
 
 
-.testing { color: red; }
+.testing { color: #3F51B5; }
 
-.star { color: yellow;
-        font-size: 150%;}
+.star::after { color: #9E9E9E;
+        font-size: 60%;
+        content: "+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*";
+        overflow-wrap:break-word;}
 
 #header {
          margin: 0em;
          padding: 1em;
-         background: rgba(208, 251, 218, 0.7);
+         background: rgba(3, 169, 244, 0.25);
          text-align: center;
          }
 #body {margin: 1em;
        padding: 1em;
-       background:  rgba(0, 0, 0, 0.05);
+       background:  rgba(158, 158, 158, 0.25);
        text-align: center;}
+#body p {color: #607D8B;
+margin: 1em;}
