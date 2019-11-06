@@ -15,7 +15,7 @@ h1 {
 
 .star::after { color: #9E9E9E;
         font-size: 60%;
-        content: "+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*";
+        content: "*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*";
         overflow-wrap:break-word;}
 
 #header {
@@ -29,4 +29,5 @@ h1 {
        background:  rgba(158, 158, 158, 0.25);
        text-align: center;}
 #body p {color: #607D8B;
-margin: 1em;}
+margin: 2em;
+word-}
