@@ -8,11 +8,21 @@ body {
 h1 {
   font-size: 35px;
   font-weight: bold;
-  margin-top: 5px;
 }
 
 
 .testing { color: red; }
 
 .star { color: yellow;
-        size: 80%;}
+        font-size: 150%;}
+
+#header {
+         margin: 0em;
+         padding: 1em;
+         background: rgba(208, 251, 218, 0.7);
+         text-align: center;
+         }
+#body {margin: 1em;
+       padding: 1em;
+       background:  rgba(0, 0, 0, 0.05);
+       text-align: center;}
