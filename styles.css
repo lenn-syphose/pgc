@@ -30,3 +30,5 @@ h1 {
        text-align: center;}
 #body p {color: #607D8B;
 margin: 2em;}
+#column1 {max-width: 48%; float:left;}
+#column2 {max-width: 48%; float:right;}
