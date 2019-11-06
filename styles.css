@@ -14,8 +14,8 @@ h1 {
 .testing { color: #3F51B5; }
 
 .star::after { color: #9E9E9E;
-        font-size: 60%;
-        content: "*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*";
+        font-size: 35%;
+        content: "*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*";
         overflow-wrap:break-word;}
 
 #header {
