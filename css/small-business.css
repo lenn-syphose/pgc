@@ -5,13 +5,13 @@
  */
 body {
   padding-top: 56px;
-  min-height: 100%!important;
+  height: 100%!important;
 }
 
 // custom css
 html {
-  min-height:100%!important;
+  height:100%!important;
 }
 #sidebar {
-  min-height: 100%!important;
+  height: 100%!important;
 }
