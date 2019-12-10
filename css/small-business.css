@@ -6,3 +6,8 @@
 body {
   padding-top: 56px;
 }
+
+// custom css
+html {
+  min-height:100%;
+}
