@@ -5,10 +5,8 @@
  */
 body {
   padding-top: 56px;
-  height: 100%!important;
+  min-height: 100%;
 }
-
-
-#sidebar {
-  height: 100%!important;
+html {
+  height:100%;
 }
